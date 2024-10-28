@@ -9,4 +9,4 @@
 [Lab_07](https://github.com/deepu002508/AIML-2025/blob/main/Lab%207.ipynb):Implement Support Vector Machine using Breast Cancer Data
 [Lab_08](https://github.com/deepu002508/AIML-2025/blob/main/Lab%208.ipynb):Implement Decision Tree Classifier using Lending Club Data
 [Lab_09](https://github.com/deepu002508/AIML-2025/blob/main/Lab%209.ipynb):Implement Random Forest Ensemble Classifier using Lending Club Data
-[Lab_10]()::Implement K-Means Clustering using Iris Data
+[Lab_10](https://github.com/deepu002508/AIML-2025/blob/main/Lab%2010.ipynb)::Implement K-Means Clustering using Iris Data
